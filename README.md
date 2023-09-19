@@ -1,3 +1,6 @@
+#Data set csv is the data file 
+
+
 # Diabetes-data-ML-model-
 Explanation of full code 
 Certainly! Let's go through the code step by step:
